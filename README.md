@@ -33,5 +33,5 @@ Na barra lateral, envie o arquivo `vendas_sabor_do_sertao.csv`.
 
 ## Dupla
 
-- Nome 1
-- Nome 2
+- Nome: Jorge Antonio de Lima Figueredo
+- Nome: Ygor Sampaio
